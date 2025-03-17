@@ -11,3 +11,12 @@ Understanding when to use slang and when to use more formal language
 How might misunderstandings of slang impact interactions between adults and youth in schools, counseling, or mentoring programs?
  It can lead to misunderstandings or miscommunications (54%). It may disrupt the learning environment (50%). 
 Write two paragraphs exploring how technology could bridge generational language gaps while maintaining professionalism and cultural awareness.
+# March 5, 2025
+
+| Name    | Power | Challenge |
+| :------ | :---- | :-------- |
+| Zara    |Telekenesis|Secure Building|
+| Aether  |Weather Manipulation|Prevent Assassination|
+| Thorne  |Invisibility|Under water rescue|
+| Silver  |Mind control|Retrieve Stolen Goods|
+| Tangier |Shapeshifting|Extract Prisoner|
