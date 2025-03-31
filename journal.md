@@ -48,3 +48,8 @@ Write two paragraphs considering the following:
 March Madness is the annual NCAA Division I men's and women's basketball tournament, featuring 68 teams competing in a single-elimination format ￼. The tournament, also known as the Big Dance, has become one of the most popular sporting events in the US, known for its exciting upsets and Cinderella stories. The men's tournament was first held in 1939, while the women's tournament began in 1982.
 
 The tournament is divided into several rounds, including the First Four, Round of 64, Round of 32, Sweet 16, Elite Eight, Final Four, and the National Championship game ￼. The teams are selected through a combination of automatic bids for conference champions and at-large bids chosen by a selection committee. The tournament is broadcast on several networks, including CBS, TBS, TNT, and TruTV, with games typically taking place in March and April ￼.
+# March 31, 2025
+Objective
+Students will be able to:
+reflect on their current emotional and mental state and identify stressors and self-care strategies using a structured journal entry prompt.
+As of right now my mentel health is really good. At times i do get stressed thinking about life after high school but im just soaking in all the fun and making my final memories with my friends and teammates. 
