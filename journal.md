@@ -1,4 +1,4 @@
-# February 18, 2025
+MMMMMMMMMMMMMM# February 18, 2025
 What's the most interesting thing you learned last week? It could be from this class, another subject, a conversation, a YouTube video, or even something you discovered on your own. Explain what it was, how you learned it, and why you found it interesting.
 The most interestiung thing i learned last week was how to log in to all of the websits i need to finish off the year. 
 # February 24, 2025
@@ -53,3 +53,13 @@ Objective
 Students will be able to:
 reflect on their current emotional and mental state and identify stressors and self-care strategies using a structured journal entry prompt.
 As of right now my mentel health is really good. At times i do get stressed thinking about life after high school but im just soaking in all the fun and making my final memories with my friends and teammates. 
+
+# April 7, 2025
+
+Journal Prompt: AI & Test Prep
+Write two paragraphs considering the following:
+
+Recently, a school in Austin, Texas used AI tutors to help students prepare for tests—and it worked. Their scores improved so much that they ranked in the top 2% nationally. With STAAR testing happening this week, think about how AI tools (like ChatGPT, Khanmigo, or other learning apps) could help you perform better.
+
+How do you think AI can help you study, prepare, or stay organized for tests like the STAAR? What would be the most useful feature of an AI tutor for you personally? Be honest—do you think you’d use it? Why or why not?
+
