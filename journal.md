@@ -63,3 +63,11 @@ Recently, a school in Austin, Texas used AI tutors to help students prepare for 
 
 How do you think AI can help you study, prepare, or stay organized for tests like the STAAR? What would be the most useful feature of an AI tutor for you personally? Be honest—do you think you’d use it? Why or why not?
 
+# April 14, 2025
+
+Weekly Journal Prompt
+Florida has enacted laws banning student cell phone use throughout the school day and restricting access to social media on school networks. Supporters argue these measures reduce distractions and cyberbullying, while opponents raise concerns about emergency communication and student autonomy. Read about Florida’s new legislation banning student cell phone use during the entire school day and restricting access to social media on school Wi-Fi:
+
+Cell phones shouldn't be banned at schools because they can serve as valuable educational tools. With internet access, students can quickly look up information, access digital textbooks, and utilize educational apps that enhance learning. Mobile devices can also facilitate organization and time management, helping students stay on top of assignments and deadlines. By leveraging cell phones in a responsible manner, schools can create a more dynamic and interactive learning environment.
+
+Moreover, a blanket ban on cell phones can be unrealistic and counterproductive. Many students rely on their phones for communication with parents, especially in emergency situations. By allowing cell phones in schools with clear guidelines, educators can teach students about digital responsibility, self-regulation, and etiquette. This approach prepares students for a world where mobile technology is increasingly integral to daily life, helping them develop essential skills for the digital age
