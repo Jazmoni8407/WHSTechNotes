@@ -71,3 +71,10 @@ Florida has enacted laws banning student cell phone use throughout the school da
 Cell phones shouldn't be banned at schools because they can serve as valuable educational tools. With internet access, students can quickly look up information, access digital textbooks, and utilize educational apps that enhance learning. Mobile devices can also facilitate organization and time management, helping students stay on top of assignments and deadlines. By leveraging cell phones in a responsible manner, schools can create a more dynamic and interactive learning environment.
 
 Moreover, a blanket ban on cell phones can be unrealistic and counterproductive. Many students rely on their phones for communication with parents, especially in emergency situations. By allowing cell phones in schools with clear guidelines, educators can teach students about digital responsibility, self-regulation, and etiquette. This approach prepares students for a world where mobile technology is increasingly integral to daily life, helping them develop essential skills for the digital age
+
+# April 28th, 2025
+| Name | Flavor| Occasion | Price |
+| :--- | :----: | :----: | ---: |
+| Sally | Choclate| Graduation| $35.00 |
+| Michael | Vanilla | Farewell Party | $37.00 |
+| Emma | Carrot | Birthday | $39.00 |
