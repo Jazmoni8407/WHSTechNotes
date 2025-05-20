@@ -88,3 +88,7 @@ Write two paragraphs exploring this topic, and be sure to include:
 A clear claim about whether this trend is ethical or not.
 Evidence or examples (from the letter, your experiences, or what you’ve learned in class).
 Reasoning about why safety and responsible tech use matter.
+
+# May 19, 2025
+
+Yes
